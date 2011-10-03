@@ -5,7 +5,7 @@
     "express": "2.2.0",
     "jade": "0.10.3",
     "underscore": "1.1.5",
-    "less": "1.0.41",
     "coffee-script": "1.0.1",
+    "less": "1.0.41"
   }
 }
