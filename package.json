@@ -1,11 +1,13 @@
 {
   "name": "APP_NAME",
   "version": "0.0.1",
+  "author": "Matthew Hooker <mwhooker@gmail.com>",
   "dependencies": {
     "express": "2.2.0",
     "jade": "0.10.3",
     "underscore": "1.1.5",
     "coffee-script": "1.0.1",
+    "express-resource": ">=0.2.2",
     "less": "1.0.41"
   }
 }
